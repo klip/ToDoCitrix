@@ -1,0 +1,23 @@
+{
+  "name": "ToDoCitrix",
+  "description": "ToDo for Citrix",
+  "main": "app.js",
+  "authors": [
+    "Igor Raihlin"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone.marionette": "marionette#^2.4.7",
+    "backbone": "^1.3.3",
+    "doT": "^1.0.1",
+    "jquery": "^2.2.4"
+  }
+}
